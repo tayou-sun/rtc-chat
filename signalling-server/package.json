@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "uuid": "^8.1.0",
     "ws": "^7.3.0",
     "wscat": "^4.0.0"
